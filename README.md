@@ -2,7 +2,7 @@
 - 👀 畢業於嘉義大學資訊管理學系
 - 🌱 具備獨立分析與設計系統的經驗
 - 💞️ 能撰寫 DFD 、 ERD 與 UML
-- 📫 並熟悉使用 phpMyAdmin 管理 MySQL 資料庫
+- 📫 並使用 phpMyAdmin 管理 MySQL 資料庫的經驗
 - 😄 擅長的程式語言 : C、HTML、CSS 與 JavaScript
 - ⚡ Contact information :　you.xuan1206@gmail.com
 
